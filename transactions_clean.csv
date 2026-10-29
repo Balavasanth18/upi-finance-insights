@@ -1,0 +1,1016 @@
+date,merchant,amount,payment_type,category,month,is_unusual
+2026-05-01,Myntra,1202.37,Cash,Shopping,2026-05,False
+2026-05-01,Swiggy,166.24,UPI,Food,2026-05,False
+2026-05-01,Blinkit,1894.05,UPI,Groceries,2026-05,False
+2026-05-01,Amazon,896.1,UPI,Shopping,2026-05,False
+2026-05-01,TNEB Electricity,926.66,UPI,Bills,2026-05,False
+2026-05-01,BookMyShow,2485.65,UPI,Entertainment,2026-05,False
+2026-05-01,Local Kirana,1678.0,UPI,Groceries,2026-05,False
+2026-05-01,Flipkart,2422.11,Card,Shopping,2026-05,False
+2026-05-02,Myntra,1232.02,Card,Shopping,2026-05,False
+2026-05-02,BookMyShow,1615.77,Card,Entertainment,2026-05,False
+2026-05-02,Rapido,1334.81,UPI,Travel,2026-05,False
+2026-05-02,BigBasket,2430.0,Card,Groceries,2026-05,False
+2026-05-02,Spotify,1383.97,UPI,Entertainment,2026-05,False
+2026-05-03,Amazon,9275.76,UPI,Shopping,2026-05,True
+2026-05-03,BookMyShow,1480.99,UPI,Entertainment,2026-05,False
+2026-05-03,TNEB Electricity,1755.39,UPI,Bills,2026-05,False
+2026-05-03,Uber,1433.95,UPI,Travel,2026-05,False
+2026-05-03,Uber,2026.24,UPI,Travel,2026-05,False
+2026-05-03,Blinkit,1156.9,Card,Groceries,2026-05,False
+2026-05-03,Ola,830.8,Card,Travel,2026-05,False
+2026-05-03,Uber,513.67,UPI,Travel,2026-05,False
+2026-05-04,Local Tea Shop,2390.92,UPI,Food,2026-05,False
+2026-05-04,Jio Recharge,40.15,UPI,Bills,2026-05,False
+2026-05-04,Myntra,1958.45,Card,Shopping,2026-05,False
+2026-05-04,Myntra,176.44,UPI,Shopping,2026-05,False
+2026-05-05,BigBasket,817.9,UPI,Groceries,2026-05,False
+2026-05-05,Ola,2170.36,UPI,Travel,2026-05,False
+2026-05-05,Blinkit,2471.31,Card,Groceries,2026-05,False
+2026-05-05,Local Tea Shop,2184.21,Card,Food,2026-05,False
+2026-05-05,Jio Recharge,2283.32,UPI,Bills,2026-05,False
+2026-05-05,TNEB Electricity,1179.82,Cash,Bills,2026-05,False
+2026-05-05,Flipkart,1799.77,UPI,Shopping,2026-05,False
+2026-05-05,Jio Recharge,1185.71,Card,Bills,2026-05,False
+2026-05-05,IRCTC,12951.87,UPI,Travel,2026-05,True
+2026-05-06,Zomato,2268.89,UPI,Food,2026-05,False
+2026-05-06,Flipkart,530.5,UPI,Shopping,2026-05,False
+2026-05-06,Spotify,1321.55,UPI,Entertainment,2026-05,False
+2026-05-06,Airtel Recharge,1882.22,Cash,Bills,2026-05,False
+2026-05-06,Local Kirana,1523.88,UPI,Groceries,2026-05,False
+2026-05-07,Domino's,181.13,UPI,Food,2026-05,False
+2026-05-07,Myntra,1357.82,Cash,Shopping,2026-05,False
+2026-05-07,Local Kirana,295.33,UPI,Groceries,2026-05,False
+2026-05-08,Rapido,1714.3,UPI,Travel,2026-05,False
+2026-05-08,Rapido,351.56,Cash,Travel,2026-05,False
+2026-05-08,Amazon,1886.36,UPI,Shopping,2026-05,False
+2026-05-08,Swiggy,1072.05,UPI,Food,2026-05,False
+2026-05-08,IRCTC,2271.26,UPI,Travel,2026-05,False
+2026-05-08,Spotify,2141.47,UPI,Entertainment,2026-05,False
+2026-05-09,Blinkit,2369.07,UPI,Groceries,2026-05,False
+2026-05-09,Amazon,1284.68,UPI,Shopping,2026-05,False
+2026-05-10,TNEB Electricity,1716.49,UPI,Bills,2026-05,False
+2026-05-10,Spotify,1057.85,UPI,Entertainment,2026-05,False
+2026-05-10,Domino's,983.17,Card,Food,2026-05,False
+2026-05-11,Uber,2095.19,Card,Travel,2026-05,False
+2026-05-11,Jio Recharge,417.79,UPI,Bills,2026-05,False
+2026-05-11,Jio Recharge,1523.27,Card,Bills,2026-05,False
+2026-05-11,Myntra,1133.91,UPI,Shopping,2026-05,False
+2026-05-11,BigBasket,512.38,UPI,Groceries,2026-05,False
+2026-05-11,BookMyShow,860.49,UPI,Entertainment,2026-05,False
+2026-05-11,Netflix,1574.0,UPI,Entertainment,2026-05,False
+2026-05-11,Ola,2397.58,UPI,Travel,2026-05,False
+2026-05-12,Blinkit,2451.06,UPI,Groceries,2026-05,False
+2026-05-12,Myntra,13564.97,UPI,Shopping,2026-05,True
+2026-05-12,BookMyShow,1849.1,UPI,Entertainment,2026-05,False
+2026-05-13,Uber,1051.44,UPI,Travel,2026-05,False
+2026-05-13,Myntra,149.61,UPI,Shopping,2026-05,False
+2026-05-13,Airtel Recharge,2088.81,UPI,Bills,2026-05,False
+2026-05-13,Spotify,1868.0,Card,Entertainment,2026-05,False
+2026-05-13,Amazon,38.41,Cash,Shopping,2026-05,False
+2026-05-13,Local Tea Shop,1034.8,UPI,Food,2026-05,False
+2026-05-13,Spotify,503.91,Cash,Entertainment,2026-05,False
+2026-05-14,Jio Recharge,2401.83,UPI,Bills,2026-05,False
+2026-05-14,TNEB Electricity,2035.66,UPI,Bills,2026-05,False
+2026-05-14,Uber,1630.69,Card,Travel,2026-05,False
+2026-05-14,Domino's,1364.09,UPI,Food,2026-05,False
+2026-05-14,BigBasket,688.6,UPI,Groceries,2026-05,False
+2026-05-14,Swiggy,1102.58,Cash,Food,2026-05,False
+2026-05-14,Blinkit,1646.53,UPI,Groceries,2026-05,False
+2026-05-15,Jio Recharge,2392.29,Cash,Bills,2026-05,False
+2026-05-15,Swiggy,1891.9,UPI,Food,2026-05,False
+2026-05-15,Swiggy,1235.84,Card,Food,2026-05,False
+2026-05-15,Spotify,1425.03,UPI,Entertainment,2026-05,False
+2026-05-15,Flipkart,2055.31,Card,Shopping,2026-05,False
+2026-05-16,IRCTC,8561.68,UPI,Travel,2026-05,True
+2026-05-16,Zomato,62.82,UPI,Food,2026-05,False
+2026-05-16,Zomato,1230.85,UPI,Food,2026-05,False
+2026-05-16,Zomato,2029.13,UPI,Food,2026-05,False
+2026-05-16,Local Kirana,777.79,UPI,Groceries,2026-05,False
+2026-05-17,Ola,761.18,UPI,Travel,2026-05,False
+2026-05-17,Swiggy,160.97,UPI,Food,2026-05,False
+2026-05-17,Blinkit,1534.72,UPI,Groceries,2026-05,False
+2026-05-17,Local Kirana,2495.3,Cash,Groceries,2026-05,False
+2026-05-17,Jio Recharge,1797.08,Card,Bills,2026-05,False
+2026-05-17,Airtel Recharge,408.05,UPI,Bills,2026-05,False
+2026-05-17,Local Kirana,1128.94,UPI,Groceries,2026-05,False
+2026-05-17,BookMyShow,1116.84,UPI,Entertainment,2026-05,False
+2026-05-17,Myntra,1652.46,Card,Shopping,2026-05,False
+2026-05-18,TNEB Electricity,1096.53,Card,Bills,2026-05,False
+2026-05-18,TNEB Electricity,667.24,UPI,Bills,2026-05,False
+2026-05-18,Netflix,1209.25,UPI,Entertainment,2026-05,False
+2026-05-18,Jio Recharge,369.56,Cash,Bills,2026-05,False
+2026-05-18,Netflix,40.02,Card,Entertainment,2026-05,False
+2026-05-18,Rapido,856.4,Cash,Travel,2026-05,False
+2026-05-19,Swiggy,1806.95,Cash,Food,2026-05,False
+2026-05-19,IRCTC,2202.34,UPI,Travel,2026-05,False
+2026-05-20,BigBasket,970.5,UPI,Groceries,2026-05,False
+2026-05-20,BookMyShow,463.38,UPI,Entertainment,2026-05,False
+2026-05-20,Zomato,851.59,UPI,Food,2026-05,False
+2026-05-20,Netflix,373.01,Cash,Entertainment,2026-05,False
+2026-05-20,Myntra,2274.65,UPI,Shopping,2026-05,False
+2026-05-21,BookMyShow,898.81,Cash,Entertainment,2026-05,False
+2026-05-21,Domino's,1406.15,UPI,Food,2026-05,False
+2026-05-22,Flipkart,627.86,UPI,Shopping,2026-05,False
+2026-05-22,BookMyShow,241.22,Cash,Entertainment,2026-05,False
+2026-05-22,Swiggy,280.92,UPI,Food,2026-05,False
+2026-05-22,Local Kirana,363.85,UPI,Groceries,2026-05,False
+2026-05-22,Netflix,1382.78,UPI,Entertainment,2026-05,False
+2026-05-23,Uber,1521.09,UPI,Travel,2026-05,False
+2026-05-24,BookMyShow,262.23,UPI,Entertainment,2026-05,False
+2026-05-24,Airtel Recharge,316.28,Card,Bills,2026-05,False
+2026-05-24,Netflix,610.33,UPI,Entertainment,2026-05,False
+2026-05-24,Amazon,835.2,UPI,Shopping,2026-05,False
+2026-05-25,Local Kirana,478.17,Cash,Groceries,2026-05,False
+2026-05-25,Flipkart,325.83,UPI,Shopping,2026-05,False
+2026-05-25,TNEB Electricity,131.85,UPI,Bills,2026-05,False
+2026-05-26,Netflix,536.71,UPI,Entertainment,2026-05,False
+2026-05-26,Uber,395.81,UPI,Travel,2026-05,False
+2026-05-26,Ola,1653.67,UPI,Travel,2026-05,False
+2026-05-26,Local Kirana,1920.33,UPI,Groceries,2026-05,False
+2026-05-26,Myntra,8390.65,UPI,Shopping,2026-05,True
+2026-05-27,Jio Recharge,772.09,UPI,Bills,2026-05,False
+2026-05-27,IRCTC,1809.93,Cash,Travel,2026-05,False
+2026-05-27,Myntra,133.26,Cash,Shopping,2026-05,False
+2026-05-27,BigBasket,164.3,UPI,Groceries,2026-05,False
+2026-05-27,TNEB Electricity,1565.87,UPI,Bills,2026-05,False
+2026-05-27,Netflix,1540.87,UPI,Entertainment,2026-05,False
+2026-05-27,TNEB Electricity,2416.98,Cash,Bills,2026-05,False
+2026-05-27,Airtel Recharge,1390.7,UPI,Bills,2026-05,False
+2026-05-28,Netflix,2460.27,Cash,Entertainment,2026-05,False
+2026-05-28,BookMyShow,1233.48,UPI,Entertainment,2026-05,False
+2026-05-28,Blinkit,267.36,UPI,Groceries,2026-05,False
+2026-05-28,Rapido,929.67,UPI,Travel,2026-05,False
+2026-05-29,Local Kirana,46.22,UPI,Groceries,2026-05,False
+2026-05-29,Blinkit,583.71,UPI,Groceries,2026-05,False
+2026-05-29,TNEB Electricity,703.36,Card,Bills,2026-05,False
+2026-05-29,Jio Recharge,1505.71,UPI,Bills,2026-05,False
+2026-05-29,Uber,2327.14,UPI,Travel,2026-05,False
+2026-05-30,Swiggy,58.08,UPI,Food,2026-05,False
+2026-05-30,Amazon,867.87,Card,Shopping,2026-05,False
+2026-05-30,Spotify,1274.18,UPI,Entertainment,2026-05,False
+2026-05-30,TNEB Electricity,1863.49,Card,Bills,2026-05,False
+2026-05-30,Domino's,650.63,UPI,Food,2026-05,False
+2026-05-30,Spotify,1110.95,Cash,Entertainment,2026-05,False
+2026-05-30,Local Tea Shop,1338.21,Card,Food,2026-05,False
+2026-05-31,Jio Recharge,672.12,Cash,Bills,2026-05,False
+2026-05-31,IRCTC,2054.31,UPI,Travel,2026-05,False
+2026-05-31,Amazon,8819.54,UPI,Shopping,2026-05,True
+2026-05-31,Netflix,1927.72,UPI,Entertainment,2026-05,False
+2026-05-31,Myntra,1372.0,Card,Shopping,2026-05,False
+2026-05-31,BookMyShow,663.2,UPI,Entertainment,2026-05,False
+2026-05-31,IRCTC,806.56,Cash,Travel,2026-05,False
+2026-05-31,Local Kirana,651.72,UPI,Groceries,2026-05,False
+2026-05-31,Local Tea Shop,1895.54,Cash,Food,2026-05,False
+2026-05-31,Local Tea Shop,1971.26,UPI,Food,2026-05,False
+2026-05-31,BookMyShow,1399.99,Cash,Entertainment,2026-05,False
+2026-06-01,Jio Recharge,358.55,UPI,Bills,2026-06,False
+2026-06-01,Airtel Recharge,1904.38,Card,Bills,2026-06,False
+2026-06-01,Rapido,410.93,UPI,Travel,2026-06,False
+2026-06-01,Blinkit,1562.45,Cash,Groceries,2026-06,False
+2026-06-01,Ola,1716.2,UPI,Travel,2026-06,False
+2026-06-01,Ola,2079.82,UPI,Travel,2026-06,False
+2026-06-02,Swiggy,782.67,UPI,Food,2026-06,False
+2026-06-02,BookMyShow,2058.08,Cash,Entertainment,2026-06,False
+2026-06-02,Spotify,2462.11,Cash,Entertainment,2026-06,False
+2026-06-02,Amazon,860.13,Card,Shopping,2026-06,False
+2026-06-02,Myntra,672.23,UPI,Shopping,2026-06,False
+2026-06-03,BigBasket,1629.54,Cash,Groceries,2026-06,False
+2026-06-04,BigBasket,1691.25,UPI,Groceries,2026-06,False
+2026-06-04,Ola,220.29,Cash,Travel,2026-06,False
+2026-06-04,Uber,191.64,Cash,Travel,2026-06,False
+2026-06-04,Myntra,2296.11,UPI,Shopping,2026-06,False
+2026-06-04,IRCTC,2491.46,Card,Travel,2026-06,False
+2026-06-05,Netflix,326.46,Card,Entertainment,2026-06,False
+2026-06-05,Domino's,485.21,Cash,Food,2026-06,False
+2026-06-05,BigBasket,1414.69,UPI,Groceries,2026-06,False
+2026-06-05,BookMyShow,1334.85,UPI,Entertainment,2026-06,False
+2026-06-05,Domino's,1081.24,UPI,Food,2026-06,False
+2026-06-05,Flipkart,2014.9,UPI,Shopping,2026-06,False
+2026-06-06,Domino's,1243.22,UPI,Food,2026-06,False
+2026-06-06,Flipkart,2318.73,UPI,Shopping,2026-06,False
+2026-06-06,Local Kirana,466.33,Card,Groceries,2026-06,False
+2026-06-06,BigBasket,55.46,Cash,Groceries,2026-06,False
+2026-06-06,Jio Recharge,259.63,Card,Bills,2026-06,False
+2026-06-07,Myntra,2138.56,UPI,Shopping,2026-06,False
+2026-06-07,Domino's,1462.89,UPI,Food,2026-06,False
+2026-06-07,Myntra,71.4,Cash,Shopping,2026-06,False
+2026-06-07,Flipkart,950.67,Card,Shopping,2026-06,False
+2026-06-07,Local Tea Shop,357.96,Cash,Food,2026-06,False
+2026-06-08,BigBasket,1115.28,Card,Groceries,2026-06,False
+2026-06-08,Blinkit,1874.46,UPI,Groceries,2026-06,False
+2026-06-08,Ola,2079.53,Card,Travel,2026-06,False
+2026-06-08,Netflix,1766.56,UPI,Entertainment,2026-06,False
+2026-06-09,TNEB Electricity,988.4,Card,Bills,2026-06,False
+2026-06-09,Flipkart,14469.25,UPI,Shopping,2026-06,True
+2026-06-09,Blinkit,2403.72,Card,Groceries,2026-06,False
+2026-06-09,Rapido,79.09,UPI,Travel,2026-06,False
+2026-06-09,TNEB Electricity,1598.53,UPI,Bills,2026-06,False
+2026-06-09,BigBasket,398.45,UPI,Groceries,2026-06,False
+2026-06-09,Rapido,392.37,UPI,Travel,2026-06,False
+2026-06-09,Swiggy,1897.85,UPI,Food,2026-06,False
+2026-06-09,Swiggy,1349.82,Cash,Food,2026-06,False
+2026-06-09,Uber,1566.24,UPI,Travel,2026-06,False
+2026-06-10,Spotify,112.74,UPI,Entertainment,2026-06,False
+2026-06-10,BookMyShow,1873.29,Card,Entertainment,2026-06,False
+2026-06-10,Netflix,198.02,Card,Entertainment,2026-06,False
+2026-06-10,Ola,225.47,UPI,Travel,2026-06,False
+2026-06-10,Netflix,811.82,UPI,Entertainment,2026-06,False
+2026-06-11,Jio Recharge,2326.0,Cash,Bills,2026-06,False
+2026-06-12,Uber,459.18,UPI,Travel,2026-06,False
+2026-06-12,Jio Recharge,546.15,UPI,Bills,2026-06,False
+2026-06-12,IRCTC,762.99,UPI,Travel,2026-06,False
+2026-06-12,Ola,457.61,Cash,Travel,2026-06,False
+2026-06-13,Uber,307.76,Card,Travel,2026-06,False
+2026-06-13,Flipkart,1736.66,UPI,Shopping,2026-06,False
+2026-06-13,Flipkart,616.31,UPI,Shopping,2026-06,False
+2026-06-13,Blinkit,177.6,UPI,Groceries,2026-06,False
+2026-06-13,BookMyShow,1909.12,Card,Entertainment,2026-06,False
+2026-06-13,Spotify,342.51,UPI,Entertainment,2026-06,False
+2026-06-13,Amazon,803.87,Card,Shopping,2026-06,False
+2026-06-13,BookMyShow,2263.35,UPI,Entertainment,2026-06,False
+2026-06-13,IRCTC,1547.99,UPI,Travel,2026-06,False
+2026-06-14,Jio Recharge,522.73,Card,Bills,2026-06,False
+2026-06-14,TNEB Electricity,654.56,Cash,Bills,2026-06,False
+2026-06-14,Local Tea Shop,2261.84,UPI,Food,2026-06,False
+2026-06-14,Spotify,1898.95,Cash,Entertainment,2026-06,False
+2026-06-14,Domino's,2036.34,UPI,Food,2026-06,False
+2026-06-14,Jio Recharge,1853.18,Cash,Bills,2026-06,False
+2026-06-14,Local Kirana,1389.32,Cash,Groceries,2026-06,False
+2026-06-15,Jio Recharge,185.1,UPI,Bills,2026-06,False
+2026-06-15,Spotify,1742.47,Card,Entertainment,2026-06,False
+2026-06-15,IRCTC,1802.85,UPI,Travel,2026-06,False
+2026-06-15,Spotify,1522.77,UPI,Entertainment,2026-06,False
+2026-06-16,Amazon,8106.69,UPI,Shopping,2026-06,True
+2026-06-16,IRCTC,2344.72,UPI,Travel,2026-06,False
+2026-06-16,Swiggy,2080.29,UPI,Food,2026-06,False
+2026-06-16,Spotify,564.43,Card,Entertainment,2026-06,False
+2026-06-16,Local Kirana,1366.34,Card,Groceries,2026-06,False
+2026-06-17,BigBasket,2285.08,UPI,Groceries,2026-06,False
+2026-06-17,Swiggy,2001.45,Cash,Food,2026-06,False
+2026-06-17,TNEB Electricity,1422.19,Card,Bills,2026-06,False
+2026-06-17,Spotify,1908.89,UPI,Entertainment,2026-06,False
+2026-06-18,Uber,1207.12,UPI,Travel,2026-06,False
+2026-06-18,Domino's,412.76,UPI,Food,2026-06,False
+2026-06-18,IRCTC,524.42,UPI,Travel,2026-06,False
+2026-06-18,Myntra,386.85,UPI,Shopping,2026-06,False
+2026-06-18,Swiggy,2132.38,Card,Food,2026-06,False
+2026-06-18,BookMyShow,1738.25,UPI,Entertainment,2026-06,False
+2026-06-18,Blinkit,2185.85,UPI,Groceries,2026-06,False
+2026-06-18,Airtel Recharge,590.91,UPI,Bills,2026-06,False
+2026-06-18,Blinkit,1702.67,UPI,Groceries,2026-06,False
+2026-06-18,Uber,871.3,UPI,Travel,2026-06,False
+2026-06-19,Flipkart,1674.39,UPI,Shopping,2026-06,False
+2026-06-19,Amazon,1560.45,UPI,Shopping,2026-06,False
+2026-06-19,Local Tea Shop,2145.36,UPI,Food,2026-06,False
+2026-06-19,Blinkit,2074.29,Card,Groceries,2026-06,False
+2026-06-19,Flipkart,949.0,Cash,Shopping,2026-06,False
+2026-06-19,Local Tea Shop,566.78,Card,Food,2026-06,False
+2026-06-19,Spotify,673.05,UPI,Entertainment,2026-06,False
+2026-06-19,Spotify,1265.0,UPI,Entertainment,2026-06,False
+2026-06-20,Local Tea Shop,756.27,UPI,Food,2026-06,False
+2026-06-20,Swiggy,1085.0,UPI,Food,2026-06,False
+2026-06-20,Uber,1696.79,UPI,Travel,2026-06,False
+2026-06-20,Local Tea Shop,1690.24,UPI,Food,2026-06,False
+2026-06-20,BigBasket,2397.48,UPI,Groceries,2026-06,False
+2026-06-20,Zomato,2241.24,UPI,Food,2026-06,False
+2026-06-20,Netflix,131.2,Card,Entertainment,2026-06,False
+2026-06-20,IRCTC,1097.31,UPI,Travel,2026-06,False
+2026-06-20,Airtel Recharge,192.98,Cash,Bills,2026-06,False
+2026-06-20,Zomato,615.99,Cash,Food,2026-06,False
+2026-06-21,TNEB Electricity,2021.06,UPI,Bills,2026-06,False
+2026-06-21,Amazon,1623.05,UPI,Shopping,2026-06,False
+2026-06-22,Uber,2046.78,UPI,Travel,2026-06,False
+2026-06-22,Myntra,1598.03,UPI,Shopping,2026-06,False
+2026-06-22,TNEB Electricity,1103.97,UPI,Bills,2026-06,False
+2026-06-22,IRCTC,1674.82,UPI,Travel,2026-06,False
+2026-06-22,IRCTC,503.69,Cash,Travel,2026-06,False
+2026-06-23,Rapido,91.21,Card,Travel,2026-06,False
+2026-06-23,BookMyShow,1415.25,UPI,Entertainment,2026-06,False
+2026-06-23,TNEB Electricity,1471.64,UPI,Bills,2026-06,False
+2026-06-23,Local Tea Shop,1651.23,Cash,Food,2026-06,False
+2026-06-23,Rapido,1738.04,UPI,Travel,2026-06,False
+2026-06-23,TNEB Electricity,2151.25,Card,Bills,2026-06,False
+2026-06-24,BigBasket,388.71,Cash,Groceries,2026-06,False
+2026-06-24,Amazon,1505.98,Cash,Shopping,2026-06,False
+2026-06-24,Swiggy,1397.3,UPI,Food,2026-06,False
+2026-06-24,Airtel Recharge,2186.88,Card,Bills,2026-06,False
+2026-06-24,Domino's,1347.88,Cash,Food,2026-06,False
+2026-06-25,Flipkart,1331.77,UPI,Shopping,2026-06,False
+2026-06-25,Flipkart,2262.53,Card,Shopping,2026-06,False
+2026-06-25,Domino's,1769.66,UPI,Food,2026-06,False
+2026-06-25,Amazon,2236.87,Card,Shopping,2026-06,False
+2026-06-25,Myntra,2388.52,Cash,Shopping,2026-06,False
+2026-06-25,BookMyShow,738.57,UPI,Entertainment,2026-06,False
+2026-06-25,Jio Recharge,118.69,Cash,Bills,2026-06,False
+2026-06-25,IRCTC,155.48,UPI,Travel,2026-06,False
+2026-06-25,Airtel Recharge,2109.13,Cash,Bills,2026-06,False
+2026-06-25,Domino's,897.03,Cash,Food,2026-06,False
+2026-06-26,BigBasket,1010.72,UPI,Groceries,2026-06,False
+2026-06-26,Local Kirana,284.39,UPI,Groceries,2026-06,False
+2026-06-26,Local Tea Shop,2033.86,UPI,Food,2026-06,False
+2026-06-26,BigBasket,1490.4,UPI,Groceries,2026-06,False
+2026-06-26,Rapido,1012.4,Cash,Travel,2026-06,False
+2026-06-26,Uber,1419.92,Cash,Travel,2026-06,False
+2026-06-26,Flipkart,1753.55,Cash,Shopping,2026-06,False
+2026-06-27,Uber,840.21,Card,Travel,2026-06,False
+2026-06-27,TNEB Electricity,1728.49,UPI,Bills,2026-06,False
+2026-06-27,IRCTC,1178.34,Card,Travel,2026-06,False
+2026-06-27,Myntra,82.1,UPI,Shopping,2026-06,False
+2026-06-28,Ola,1265.91,UPI,Travel,2026-06,False
+2026-06-28,Zomato,31.67,UPI,Food,2026-06,False
+2026-06-28,Myntra,405.46,UPI,Shopping,2026-06,False
+2026-06-28,Netflix,2010.22,Cash,Entertainment,2026-06,False
+2026-06-28,Zomato,735.9,UPI,Food,2026-06,False
+2026-06-28,Ola,32.37,Cash,Travel,2026-06,False
+2026-06-28,Domino's,2158.76,Card,Food,2026-06,False
+2026-06-29,TNEB Electricity,1327.9,UPI,Bills,2026-06,False
+2026-06-29,TNEB Electricity,1970.96,Cash,Bills,2026-06,False
+2026-06-29,Netflix,2156.33,UPI,Entertainment,2026-06,False
+2026-06-30,Domino's,1012.79,Card,Food,2026-06,False
+2026-06-30,BookMyShow,59.09,UPI,Entertainment,2026-06,False
+2026-06-30,Ola,1918.94,Card,Travel,2026-06,False
+2026-06-30,Domino's,910.51,Card,Food,2026-06,False
+2026-06-30,Uber,1637.56,Cash,Travel,2026-06,False
+2026-06-30,Blinkit,1165.04,Card,Groceries,2026-06,False
+2026-07-01,Swiggy,378.2,UPI,Food,2026-07,False
+2026-07-01,Uber,664.0,Cash,Travel,2026-07,False
+2026-07-01,Myntra,9106.33,UPI,Shopping,2026-07,True
+2026-07-02,Flipkart,12233.32,UPI,Shopping,2026-07,True
+2026-07-02,Zomato,2164.06,UPI,Food,2026-07,False
+2026-07-02,Local Kirana,2322.67,Cash,Groceries,2026-07,False
+2026-07-02,Uber,434.75,Cash,Travel,2026-07,False
+2026-07-02,Amazon,354.33,UPI,Shopping,2026-07,False
+2026-07-02,Flipkart,78.78,UPI,Shopping,2026-07,False
+2026-07-02,Myntra,108.81,UPI,Shopping,2026-07,False
+2026-07-02,Myntra,50.89,UPI,Shopping,2026-07,False
+2026-07-03,BookMyShow,2288.31,Cash,Entertainment,2026-07,False
+2026-07-03,Local Tea Shop,208.75,Card,Food,2026-07,False
+2026-07-03,Domino's,857.86,UPI,Food,2026-07,False
+2026-07-03,Local Kirana,450.08,UPI,Groceries,2026-07,False
+2026-07-03,Amazon,1416.31,UPI,Shopping,2026-07,False
+2026-07-03,TNEB Electricity,1934.3,UPI,Bills,2026-07,False
+2026-07-03,BigBasket,87.11,Card,Groceries,2026-07,False
+2026-07-04,BigBasket,515.14,UPI,Groceries,2026-07,False
+2026-07-04,Flipkart,324.09,Cash,Shopping,2026-07,False
+2026-07-04,IRCTC,1503.17,Card,Travel,2026-07,False
+2026-07-04,Rapido,1869.99,UPI,Travel,2026-07,False
+2026-07-04,Spotify,1890.72,UPI,Entertainment,2026-07,False
+2026-07-04,Flipkart,2365.64,Card,Shopping,2026-07,False
+2026-07-04,Airtel Recharge,403.37,UPI,Bills,2026-07,False
+2026-07-04,Amazon,875.25,UPI,Shopping,2026-07,False
+2026-07-05,Netflix,844.28,UPI,Entertainment,2026-07,False
+2026-07-05,Myntra,2220.88,Card,Shopping,2026-07,False
+2026-07-05,Zomato,2236.06,UPI,Food,2026-07,False
+2026-07-06,Flipkart,7615.32,UPI,Shopping,2026-07,True
+2026-07-06,Domino's,2290.6,UPI,Food,2026-07,False
+2026-07-06,Domino's,1596.57,UPI,Food,2026-07,False
+2026-07-06,Ola,553.18,UPI,Travel,2026-07,False
+2026-07-06,BigBasket,526.76,UPI,Groceries,2026-07,False
+2026-07-06,Swiggy,891.07,UPI,Food,2026-07,False
+2026-07-06,Local Kirana,464.89,Cash,Groceries,2026-07,False
+2026-07-07,Amazon,1905.7,UPI,Shopping,2026-07,False
+2026-07-07,Uber,1446.19,Card,Travel,2026-07,False
+2026-07-07,Domino's,1085.3,UPI,Food,2026-07,False
+2026-07-07,Blinkit,339.25,UPI,Groceries,2026-07,False
+2026-07-07,Netflix,2450.85,UPI,Entertainment,2026-07,False
+2026-07-07,Amazon,1362.12,UPI,Shopping,2026-07,False
+2026-07-08,TNEB Electricity,1551.9,UPI,Bills,2026-07,False
+2026-07-08,Uber,2139.31,UPI,Travel,2026-07,False
+2026-07-08,Airtel Recharge,206.99,Card,Bills,2026-07,False
+2026-07-08,TNEB Electricity,1722.26,UPI,Bills,2026-07,False
+2026-07-09,BookMyShow,1557.9,Cash,Entertainment,2026-07,False
+2026-07-09,Netflix,1798.4,UPI,Entertainment,2026-07,False
+2026-07-09,Blinkit,133.18,Cash,Groceries,2026-07,False
+2026-07-09,Rapido,1594.03,Card,Travel,2026-07,False
+2026-07-09,Spotify,1924.45,Cash,Entertainment,2026-07,False
+2026-07-09,Airtel Recharge,2185.96,Cash,Bills,2026-07,False
+2026-07-09,Uber,1389.4,Cash,Travel,2026-07,False
+2026-07-10,Flipkart,2224.97,UPI,Shopping,2026-07,False
+2026-07-10,Ola,2110.75,UPI,Travel,2026-07,False
+2026-07-10,Jio Recharge,838.7,UPI,Bills,2026-07,False
+2026-07-10,Blinkit,97.08,Card,Groceries,2026-07,False
+2026-07-10,BigBasket,601.75,UPI,Groceries,2026-07,False
+2026-07-10,IRCTC,1860.91,Cash,Travel,2026-07,False
+2026-07-11,IRCTC,2184.38,Cash,Travel,2026-07,False
+2026-07-11,Airtel Recharge,23.48,Cash,Bills,2026-07,False
+2026-07-11,Rapido,471.89,UPI,Travel,2026-07,False
+2026-07-11,BookMyShow,1863.99,UPI,Entertainment,2026-07,False
+2026-07-11,BookMyShow,1579.2,UPI,Entertainment,2026-07,False
+2026-07-11,Jio Recharge,768.09,UPI,Bills,2026-07,False
+2026-07-12,Domino's,495.58,Cash,Food,2026-07,False
+2026-07-12,Myntra,1048.67,UPI,Shopping,2026-07,False
+2026-07-12,Airtel Recharge,1140.56,Cash,Bills,2026-07,False
+2026-07-12,Local Kirana,557.15,Cash,Groceries,2026-07,False
+2026-07-12,Zomato,2017.13,Cash,Food,2026-07,False
+2026-07-12,Local Tea Shop,1534.49,UPI,Food,2026-07,False
+2026-07-13,Local Kirana,2499.67,Cash,Groceries,2026-07,False
+2026-07-13,Zomato,2344.42,Card,Food,2026-07,False
+2026-07-13,Ola,2088.79,UPI,Travel,2026-07,False
+2026-07-13,Myntra,319.95,UPI,Shopping,2026-07,False
+2026-07-13,Jio Recharge,645.86,UPI,Bills,2026-07,False
+2026-07-13,Uber,112.97,UPI,Travel,2026-07,False
+2026-07-13,Myntra,849.28,Cash,Shopping,2026-07,False
+2026-07-13,Spotify,140.84,UPI,Entertainment,2026-07,False
+2026-07-13,Zomato,78.29,UPI,Food,2026-07,False
+2026-07-13,Uber,95.47,UPI,Travel,2026-07,False
+2026-07-14,Local Tea Shop,722.54,UPI,Food,2026-07,False
+2026-07-14,Jio Recharge,719.65,Cash,Bills,2026-07,False
+2026-07-14,Uber,1116.26,UPI,Travel,2026-07,False
+2026-07-14,Blinkit,773.52,Card,Groceries,2026-07,False
+2026-07-14,BigBasket,1947.99,Cash,Groceries,2026-07,False
+2026-07-14,Local Tea Shop,253.62,UPI,Food,2026-07,False
+2026-07-14,Netflix,2494.34,UPI,Entertainment,2026-07,False
+2026-07-15,TNEB Electricity,804.07,UPI,Bills,2026-07,False
+2026-07-15,Myntra,1530.8,UPI,Shopping,2026-07,False
+2026-07-15,Netflix,197.94,Cash,Entertainment,2026-07,False
+2026-07-15,Rapido,1897.64,Cash,Travel,2026-07,False
+2026-07-15,BookMyShow,393.92,UPI,Entertainment,2026-07,False
+2026-07-15,Blinkit,306.01,UPI,Groceries,2026-07,False
+2026-07-15,Local Kirana,650.55,Card,Groceries,2026-07,False
+2026-07-16,Jio Recharge,1395.57,UPI,Bills,2026-07,False
+2026-07-16,Flipkart,1095.88,Card,Shopping,2026-07,False
+2026-07-16,Flipkart,1433.57,UPI,Shopping,2026-07,False
+2026-07-16,Blinkit,855.95,UPI,Groceries,2026-07,False
+2026-07-16,Jio Recharge,2483.49,Card,Bills,2026-07,False
+2026-07-16,Spotify,926.98,UPI,Entertainment,2026-07,False
+2026-07-17,Flipkart,1048.08,UPI,Shopping,2026-07,False
+2026-07-17,Spotify,1757.85,UPI,Entertainment,2026-07,False
+2026-07-17,Netflix,2174.4,Cash,Entertainment,2026-07,False
+2026-07-17,TNEB Electricity,1183.82,Card,Bills,2026-07,False
+2026-07-17,Rapido,824.11,UPI,Travel,2026-07,False
+2026-07-17,Blinkit,2088.74,Card,Groceries,2026-07,False
+2026-07-18,Local Tea Shop,1627.27,Card,Food,2026-07,False
+2026-07-18,IRCTC,365.59,Card,Travel,2026-07,False
+2026-07-18,Blinkit,2132.8,Cash,Groceries,2026-07,False
+2026-07-19,Blinkit,187.69,UPI,Groceries,2026-07,False
+2026-07-19,Uber,2318.43,UPI,Travel,2026-07,False
+2026-07-19,TNEB Electricity,2493.24,UPI,Bills,2026-07,False
+2026-07-20,Jio Recharge,259.12,UPI,Bills,2026-07,False
+2026-07-20,BookMyShow,1663.8,Card,Entertainment,2026-07,False
+2026-07-20,Zomato,1653.58,UPI,Food,2026-07,False
+2026-07-20,Jio Recharge,549.05,UPI,Bills,2026-07,False
+2026-07-20,Spotify,1597.14,Card,Entertainment,2026-07,False
+2026-07-21,Airtel Recharge,868.25,UPI,Bills,2026-07,False
+2026-07-21,Uber,1048.29,UPI,Travel,2026-07,False
+2026-07-21,Local Kirana,2496.75,Cash,Groceries,2026-07,False
+2026-07-21,Myntra,443.39,Card,Shopping,2026-07,False
+2026-07-21,Spotify,2189.32,UPI,Entertainment,2026-07,False
+2026-07-22,Jio Recharge,397.42,UPI,Bills,2026-07,False
+2026-07-22,Uber,337.73,UPI,Travel,2026-07,False
+2026-07-22,Myntra,911.36,UPI,Shopping,2026-07,False
+2026-07-22,Rapido,2138.64,Card,Travel,2026-07,False
+2026-07-22,Local Kirana,222.62,Cash,Groceries,2026-07,False
+2026-07-22,Spotify,618.42,UPI,Entertainment,2026-07,False
+2026-07-22,Netflix,1144.46,UPI,Entertainment,2026-07,False
+2026-07-23,Jio Recharge,195.92,Cash,Bills,2026-07,False
+2026-07-23,Domino's,360.32,UPI,Food,2026-07,False
+2026-07-23,Amazon,2213.75,UPI,Shopping,2026-07,False
+2026-07-23,BookMyShow,2045.67,UPI,Entertainment,2026-07,False
+2026-07-23,Amazon,2118.18,UPI,Shopping,2026-07,False
+2026-07-24,Local Kirana,248.82,UPI,Groceries,2026-07,False
+2026-07-24,Airtel Recharge,2233.22,UPI,Bills,2026-07,False
+2026-07-24,Blinkit,1549.05,Card,Groceries,2026-07,False
+2026-07-24,Domino's,1434.2,UPI,Food,2026-07,False
+2026-07-24,TNEB Electricity,2137.77,Card,Bills,2026-07,False
+2026-07-24,Jio Recharge,957.28,Card,Bills,2026-07,False
+2026-07-25,BigBasket,569.53,UPI,Groceries,2026-07,False
+2026-07-25,Flipkart,447.94,UPI,Shopping,2026-07,False
+2026-07-25,TNEB Electricity,2314.87,UPI,Bills,2026-07,False
+2026-07-25,Local Kirana,1008.03,UPI,Groceries,2026-07,False
+2026-07-25,Local Kirana,286.93,Cash,Groceries,2026-07,False
+2026-07-25,IRCTC,2063.84,UPI,Travel,2026-07,False
+2026-07-25,Spotify,1666.88,UPI,Entertainment,2026-07,False
+2026-07-25,Netflix,1859.01,UPI,Entertainment,2026-07,False
+2026-07-27,Swiggy,1701.42,Cash,Food,2026-07,False
+2026-07-27,IRCTC,718.28,UPI,Travel,2026-07,False
+2026-07-27,Uber,1728.54,UPI,Travel,2026-07,False
+2026-07-27,BigBasket,416.76,UPI,Groceries,2026-07,False
+2026-07-28,Flipkart,2350.84,Cash,Shopping,2026-07,False
+2026-07-28,Local Kirana,2382.13,Cash,Groceries,2026-07,False
+2026-07-28,Myntra,2175.36,UPI,Shopping,2026-07,False
+2026-07-28,Netflix,214.01,UPI,Entertainment,2026-07,False
+2026-07-29,Swiggy,2234.9,UPI,Food,2026-07,False
+2026-07-29,Myntra,1205.95,Cash,Shopping,2026-07,False
+2026-07-29,Zomato,408.81,UPI,Food,2026-07,False
+2026-07-29,Domino's,2151.58,Card,Food,2026-07,False
+2026-07-29,Blinkit,739.51,Card,Groceries,2026-07,False
+2026-07-29,Ola,1244.76,UPI,Travel,2026-07,False
+2026-07-30,Rapido,188.03,Cash,Travel,2026-07,False
+2026-07-30,Jio Recharge,601.33,UPI,Bills,2026-07,False
+2026-07-30,Myntra,2267.96,UPI,Shopping,2026-07,False
+2026-07-30,Blinkit,2454.82,Cash,Groceries,2026-07,False
+2026-07-30,Airtel Recharge,848.64,Cash,Bills,2026-07,False
+2026-07-31,TNEB Electricity,2164.02,UPI,Bills,2026-07,False
+2026-07-31,IRCTC,2086.01,Cash,Travel,2026-07,False
+2026-07-31,Spotify,1704.26,UPI,Entertainment,2026-07,False
+2026-07-31,Jio Recharge,1131.74,UPI,Bills,2026-07,False
+2026-08-01,Airtel Recharge,897.67,Card,Bills,2026-08,False
+2026-08-01,Myntra,1511.76,UPI,Shopping,2026-08,False
+2026-08-01,BookMyShow,1408.6,UPI,Entertainment,2026-08,False
+2026-08-01,TNEB Electricity,1424.59,Card,Bills,2026-08,False
+2026-08-01,Myntra,345.7,Cash,Shopping,2026-08,False
+2026-08-01,Myntra,2022.84,Card,Shopping,2026-08,False
+2026-08-01,Swiggy,1706.53,Cash,Food,2026-08,False
+2026-08-01,Uber,1012.92,UPI,Travel,2026-08,False
+2026-08-02,Swiggy,1329.13,Card,Food,2026-08,False
+2026-08-02,TNEB Electricity,1819.51,UPI,Bills,2026-08,False
+2026-08-02,BookMyShow,998.89,UPI,Entertainment,2026-08,False
+2026-08-02,Local Kirana,1277.44,UPI,Groceries,2026-08,False
+2026-08-02,Airtel Recharge,248.78,Cash,Bills,2026-08,False
+2026-08-02,Zomato,1387.13,UPI,Food,2026-08,False
+2026-08-02,Domino's,2123.3,UPI,Food,2026-08,False
+2026-08-02,Local Kirana,2147.23,UPI,Groceries,2026-08,False
+2026-08-03,IRCTC,1782.14,Card,Travel,2026-08,False
+2026-08-03,Amazon,753.93,UPI,Shopping,2026-08,False
+2026-08-03,IRCTC,2346.9,UPI,Travel,2026-08,False
+2026-08-03,Spotify,917.1,UPI,Entertainment,2026-08,False
+2026-08-03,BigBasket,2096.73,UPI,Groceries,2026-08,False
+2026-08-04,Zomato,1731.28,Cash,Food,2026-08,False
+2026-08-04,Local Kirana,773.62,UPI,Groceries,2026-08,False
+2026-08-04,Netflix,2470.64,UPI,Entertainment,2026-08,False
+2026-08-04,Flipkart,2352.94,UPI,Shopping,2026-08,False
+2026-08-05,Domino's,1636.4,Card,Food,2026-08,False
+2026-08-05,Flipkart,265.89,UPI,Shopping,2026-08,False
+2026-08-05,Myntra,603.66,UPI,Shopping,2026-08,False
+2026-08-05,Myntra,935.02,UPI,Shopping,2026-08,False
+2026-08-06,Rapido,357.73,Cash,Travel,2026-08,False
+2026-08-06,Uber,1484.42,UPI,Travel,2026-08,False
+2026-08-06,Jio Recharge,1486.28,Cash,Bills,2026-08,False
+2026-08-06,IRCTC,962.41,Card,Travel,2026-08,False
+2026-08-06,Netflix,289.82,UPI,Entertainment,2026-08,False
+2026-08-06,Local Tea Shop,2407.64,UPI,Food,2026-08,False
+2026-08-06,Ola,1550.93,UPI,Travel,2026-08,False
+2026-08-06,Domino's,120.76,UPI,Food,2026-08,False
+2026-08-06,Amazon,1751.0,UPI,Shopping,2026-08,False
+2026-08-07,Spotify,52.37,Card,Entertainment,2026-08,False
+2026-08-07,IRCTC,1928.75,UPI,Travel,2026-08,False
+2026-08-07,Local Kirana,98.7,Card,Groceries,2026-08,False
+2026-08-07,Airtel Recharge,2332.33,Card,Bills,2026-08,False
+2026-08-07,Blinkit,693.43,UPI,Groceries,2026-08,False
+2026-08-07,Swiggy,1789.88,Card,Food,2026-08,False
+2026-08-07,Swiggy,2387.84,UPI,Food,2026-08,False
+2026-08-08,Zomato,2285.24,Card,Food,2026-08,False
+2026-08-08,Spotify,2409.23,UPI,Entertainment,2026-08,False
+2026-08-08,Netflix,1908.39,UPI,Entertainment,2026-08,False
+2026-08-08,Local Kirana,1442.13,UPI,Groceries,2026-08,False
+2026-08-08,Airtel Recharge,278.59,UPI,Bills,2026-08,False
+2026-08-09,BigBasket,202.82,UPI,Groceries,2026-08,False
+2026-08-09,Local Kirana,1578.29,Card,Groceries,2026-08,False
+2026-08-09,Flipkart,1817.25,UPI,Shopping,2026-08,False
+2026-08-09,Zomato,52.89,UPI,Food,2026-08,False
+2026-08-09,Zomato,1687.57,UPI,Food,2026-08,False
+2026-08-09,BigBasket,1682.78,UPI,Groceries,2026-08,False
+2026-08-09,Myntra,1056.64,UPI,Shopping,2026-08,False
+2026-08-09,BigBasket,449.61,Card,Groceries,2026-08,False
+2026-08-10,Netflix,2304.47,UPI,Entertainment,2026-08,False
+2026-08-10,Myntra,1162.78,Cash,Shopping,2026-08,False
+2026-08-10,Blinkit,1590.28,Cash,Groceries,2026-08,False
+2026-08-10,Netflix,368.2,Cash,Entertainment,2026-08,False
+2026-08-11,Spotify,933.67,Card,Entertainment,2026-08,False
+2026-08-11,Jio Recharge,1979.99,Cash,Bills,2026-08,False
+2026-08-11,Jio Recharge,1319.89,UPI,Bills,2026-08,False
+2026-08-11,TNEB Electricity,2003.85,Cash,Bills,2026-08,False
+2026-08-12,Local Tea Shop,1933.18,UPI,Food,2026-08,False
+2026-08-12,Uber,698.07,Cash,Travel,2026-08,False
+2026-08-12,Flipkart,1634.16,UPI,Shopping,2026-08,False
+2026-08-12,TNEB Electricity,930.85,UPI,Bills,2026-08,False
+2026-08-12,Rapido,167.43,UPI,Travel,2026-08,False
+2026-08-12,Amazon,704.98,UPI,Shopping,2026-08,False
+2026-08-13,IRCTC,1673.0,UPI,Travel,2026-08,False
+2026-08-13,BookMyShow,174.47,Card,Entertainment,2026-08,False
+2026-08-13,Flipkart,8112.89,UPI,Shopping,2026-08,True
+2026-08-14,Domino's,1757.09,Cash,Food,2026-08,False
+2026-08-14,Local Tea Shop,2147.9,Cash,Food,2026-08,False
+2026-08-14,TNEB Electricity,335.48,Cash,Bills,2026-08,False
+2026-08-14,Local Tea Shop,2213.69,UPI,Food,2026-08,False
+2026-08-14,Netflix,452.52,Card,Entertainment,2026-08,False
+2026-08-14,Flipkart,255.38,UPI,Shopping,2026-08,False
+2026-08-15,Swiggy,1592.73,Card,Food,2026-08,False
+2026-08-15,Local Tea Shop,341.49,UPI,Food,2026-08,False
+2026-08-15,BigBasket,449.45,UPI,Groceries,2026-08,False
+2026-08-15,Flipkart,2397.91,Cash,Shopping,2026-08,False
+2026-08-15,Airtel Recharge,964.17,Cash,Bills,2026-08,False
+2026-08-15,Spotify,1395.43,UPI,Entertainment,2026-08,False
+2026-08-15,Myntra,537.27,UPI,Shopping,2026-08,False
+2026-08-16,BookMyShow,1764.04,UPI,Entertainment,2026-08,False
+2026-08-16,Ola,2059.58,Cash,Travel,2026-08,False
+2026-08-16,Rapido,1826.78,Card,Travel,2026-08,False
+2026-08-17,Local Kirana,400.84,Card,Groceries,2026-08,False
+2026-08-17,Amazon,840.02,UPI,Shopping,2026-08,False
+2026-08-17,Flipkart,2334.19,Cash,Shopping,2026-08,False
+2026-08-17,IRCTC,1630.94,Card,Travel,2026-08,False
+2026-08-17,Flipkart,1652.17,UPI,Shopping,2026-08,False
+2026-08-17,Local Tea Shop,42.54,UPI,Food,2026-08,False
+2026-08-17,Flipkart,847.98,UPI,Shopping,2026-08,False
+2026-08-18,Ola,1120.11,UPI,Travel,2026-08,False
+2026-08-18,Swiggy,1302.73,UPI,Food,2026-08,False
+2026-08-18,IRCTC,1375.34,UPI,Travel,2026-08,False
+2026-08-18,Local Kirana,2493.39,Card,Groceries,2026-08,False
+2026-08-18,Netflix,1270.33,Cash,Entertainment,2026-08,False
+2026-08-18,Airtel Recharge,2397.14,Card,Bills,2026-08,False
+2026-08-18,Spotify,1795.75,UPI,Entertainment,2026-08,False
+2026-08-19,IRCTC,2465.08,UPI,Travel,2026-08,False
+2026-08-19,BookMyShow,870.11,Card,Entertainment,2026-08,False
+2026-08-19,Airtel Recharge,1420.52,UPI,Bills,2026-08,False
+2026-08-19,Myntra,1601.68,UPI,Shopping,2026-08,False
+2026-08-19,Rapido,340.15,UPI,Travel,2026-08,False
+2026-08-20,TNEB Electricity,2450.15,Card,Bills,2026-08,False
+2026-08-20,Ola,136.08,UPI,Travel,2026-08,False
+2026-08-20,BigBasket,1305.48,UPI,Groceries,2026-08,False
+2026-08-20,Uber,287.37,Card,Travel,2026-08,False
+2026-08-20,BookMyShow,2428.6,UPI,Entertainment,2026-08,False
+2026-08-21,Flipkart,236.22,Cash,Shopping,2026-08,False
+2026-08-21,Local Kirana,2062.6,UPI,Groceries,2026-08,False
+2026-08-21,Spotify,2460.15,Card,Entertainment,2026-08,False
+2026-08-21,Spotify,1804.79,Cash,Entertainment,2026-08,False
+2026-08-21,Netflix,1766.12,UPI,Entertainment,2026-08,False
+2026-08-22,Uber,535.85,UPI,Travel,2026-08,False
+2026-08-22,Flipkart,1776.67,Cash,Shopping,2026-08,False
+2026-08-22,Rapido,1789.23,Card,Travel,2026-08,False
+2026-08-22,Ola,596.97,UPI,Travel,2026-08,False
+2026-08-22,Flipkart,1370.07,Cash,Shopping,2026-08,False
+2026-08-22,IRCTC,531.83,UPI,Travel,2026-08,False
+2026-08-23,Myntra,589.2,Card,Shopping,2026-08,False
+2026-08-23,Myntra,2314.78,UPI,Shopping,2026-08,False
+2026-08-23,Spotify,322.86,UPI,Entertainment,2026-08,False
+2026-08-24,BigBasket,1230.06,UPI,Groceries,2026-08,False
+2026-08-24,Spotify,843.81,Cash,Entertainment,2026-08,False
+2026-08-24,Netflix,1215.21,UPI,Entertainment,2026-08,False
+2026-08-24,Uber,150.78,Card,Travel,2026-08,False
+2026-08-25,Zomato,22.24,UPI,Food,2026-08,False
+2026-08-25,Ola,1618.15,UPI,Travel,2026-08,False
+2026-08-25,Swiggy,1304.4,UPI,Food,2026-08,False
+2026-08-26,TNEB Electricity,342.54,UPI,Bills,2026-08,False
+2026-08-26,Jio Recharge,2419.04,UPI,Bills,2026-08,False
+2026-08-26,Blinkit,300.1,UPI,Groceries,2026-08,False
+2026-08-26,BigBasket,1065.66,UPI,Groceries,2026-08,False
+2026-08-26,Blinkit,900.6,Card,Groceries,2026-08,False
+2026-08-26,BigBasket,228.66,UPI,Groceries,2026-08,False
+2026-08-26,Amazon,1910.92,Card,Shopping,2026-08,False
+2026-08-27,TNEB Electricity,913.91,UPI,Bills,2026-08,False
+2026-08-27,Amazon,1006.64,UPI,Shopping,2026-08,False
+2026-08-27,BookMyShow,1000.91,Cash,Entertainment,2026-08,False
+2026-08-27,Amazon,1934.94,UPI,Shopping,2026-08,False
+2026-08-27,Myntra,1304.56,Card,Shopping,2026-08,False
+2026-08-27,BigBasket,2086.84,UPI,Groceries,2026-08,False
+2026-08-28,Zomato,1440.04,UPI,Food,2026-08,False
+2026-08-28,Local Tea Shop,1937.64,UPI,Food,2026-08,False
+2026-08-28,Ola,469.08,Card,Travel,2026-08,False
+2026-08-28,Flipkart,981.19,UPI,Shopping,2026-08,False
+2026-08-28,Jio Recharge,2230.7,Cash,Bills,2026-08,False
+2026-08-28,Zomato,1876.87,Cash,Food,2026-08,False
+2026-08-29,Local Kirana,1170.95,UPI,Groceries,2026-08,False
+2026-08-29,Local Tea Shop,235.85,UPI,Food,2026-08,False
+2026-08-29,Local Tea Shop,1130.31,UPI,Food,2026-08,False
+2026-08-29,Uber,1446.6,UPI,Travel,2026-08,False
+2026-08-29,Blinkit,1408.72,UPI,Groceries,2026-08,False
+2026-08-30,Local Kirana,419.98,UPI,Groceries,2026-08,False
+2026-08-30,TNEB Electricity,218.37,UPI,Bills,2026-08,False
+2026-08-30,Airtel Recharge,266.41,UPI,Bills,2026-08,False
+2026-08-30,Myntra,2409.65,UPI,Shopping,2026-08,False
+2026-08-30,Flipkart,874.59,UPI,Shopping,2026-08,False
+2026-08-30,IRCTC,1610.96,UPI,Travel,2026-08,False
+2026-08-30,BookMyShow,636.14,Cash,Entertainment,2026-08,False
+2026-08-30,Spotify,1427.9,UPI,Entertainment,2026-08,False
+2026-08-30,Spotify,1317.05,UPI,Entertainment,2026-08,False
+2026-08-30,TNEB Electricity,1583.08,Card,Bills,2026-08,False
+2026-08-30,Airtel Recharge,830.55,Card,Bills,2026-08,False
+2026-08-30,Myntra,2065.01,Card,Shopping,2026-08,False
+2026-08-31,Zomato,150.49,Card,Food,2026-08,False
+2026-08-31,Local Kirana,1048.33,UPI,Groceries,2026-08,False
+2026-08-31,Rapido,1980.12,UPI,Travel,2026-08,False
+2026-08-31,Zomato,947.08,UPI,Food,2026-08,False
+2026-09-01,Netflix,1660.29,UPI,Entertainment,2026-09,False
+2026-09-01,Flipkart,2365.14,UPI,Shopping,2026-09,False
+2026-09-01,Domino's,337.43,UPI,Food,2026-09,False
+2026-09-01,Local Kirana,1884.37,UPI,Groceries,2026-09,False
+2026-09-02,BookMyShow,397.91,UPI,Entertainment,2026-09,False
+2026-09-02,IRCTC,961.57,Cash,Travel,2026-09,False
+2026-09-02,Domino's,370.96,Card,Food,2026-09,False
+2026-09-02,BookMyShow,440.53,Card,Entertainment,2026-09,False
+2026-09-02,BigBasket,590.5,UPI,Groceries,2026-09,False
+2026-09-02,Blinkit,20.45,UPI,Groceries,2026-09,False
+2026-09-02,Amazon,1960.37,UPI,Shopping,2026-09,False
+2026-09-02,TNEB Electricity,992.55,UPI,Bills,2026-09,False
+2026-09-03,Local Kirana,981.24,Cash,Groceries,2026-09,False
+2026-09-03,IRCTC,1448.1,Cash,Travel,2026-09,False
+2026-09-03,Local Tea Shop,1942.92,UPI,Food,2026-09,False
+2026-09-03,Netflix,2397.71,UPI,Entertainment,2026-09,False
+2026-09-03,Blinkit,1758.83,UPI,Groceries,2026-09,False
+2026-09-03,Blinkit,1238.52,UPI,Groceries,2026-09,False
+2026-09-04,Flipkart,1213.5,Cash,Shopping,2026-09,False
+2026-09-04,Uber,961.03,Cash,Travel,2026-09,False
+2026-09-04,Ola,2154.35,UPI,Travel,2026-09,False
+2026-09-04,Airtel Recharge,167.93,UPI,Bills,2026-09,False
+2026-09-04,BigBasket,2459.76,Cash,Groceries,2026-09,False
+2026-09-04,Myntra,758.85,UPI,Shopping,2026-09,False
+2026-09-05,Local Tea Shop,2055.42,Card,Food,2026-09,False
+2026-09-05,Amazon,2446.08,UPI,Shopping,2026-09,False
+2026-09-05,Amazon,1257.6,Cash,Shopping,2026-09,False
+2026-09-05,Blinkit,901.89,UPI,Groceries,2026-09,False
+2026-09-06,Local Tea Shop,611.2,UPI,Food,2026-09,False
+2026-09-06,Jio Recharge,1263.8,Card,Bills,2026-09,False
+2026-09-06,Rapido,359.83,Card,Travel,2026-09,False
+2026-09-06,BigBasket,315.01,UPI,Groceries,2026-09,False
+2026-09-06,BookMyShow,829.37,Cash,Entertainment,2026-09,False
+2026-09-06,Swiggy,2086.71,UPI,Food,2026-09,False
+2026-09-06,Local Kirana,857.89,Card,Groceries,2026-09,False
+2026-09-07,Local Tea Shop,1304.85,UPI,Food,2026-09,False
+2026-09-07,BigBasket,173.29,Cash,Groceries,2026-09,False
+2026-09-07,BigBasket,415.78,UPI,Groceries,2026-09,False
+2026-09-07,Rapido,739.0,Card,Travel,2026-09,False
+2026-09-07,Jio Recharge,2110.31,Cash,Bills,2026-09,False
+2026-09-07,Local Kirana,2154.31,Card,Groceries,2026-09,False
+2026-09-08,Flipkart,90.49,Cash,Shopping,2026-09,False
+2026-09-08,Jio Recharge,159.39,UPI,Bills,2026-09,False
+2026-09-08,Netflix,890.44,UPI,Entertainment,2026-09,False
+2026-09-08,Myntra,2095.45,UPI,Shopping,2026-09,False
+2026-09-09,IRCTC,1358.43,Card,Travel,2026-09,False
+2026-09-09,Amazon,2397.17,UPI,Shopping,2026-09,False
+2026-09-09,Jio Recharge,908.31,Card,Bills,2026-09,False
+2026-09-09,Airtel Recharge,2047.51,UPI,Bills,2026-09,False
+2026-09-09,Blinkit,883.15,Card,Groceries,2026-09,False
+2026-09-09,Spotify,433.0,Cash,Entertainment,2026-09,False
+2026-09-10,Jio Recharge,1771.58,Card,Bills,2026-09,False
+2026-09-10,Local Tea Shop,1627.59,UPI,Food,2026-09,False
+2026-09-10,TNEB Electricity,62.74,Card,Bills,2026-09,False
+2026-09-10,Flipkart,1855.15,Card,Shopping,2026-09,False
+2026-09-10,TNEB Electricity,143.15,UPI,Bills,2026-09,False
+2026-09-10,Blinkit,2243.98,UPI,Groceries,2026-09,False
+2026-09-10,Flipkart,2433.33,UPI,Shopping,2026-09,False
+2026-09-10,Local Tea Shop,1580.31,Cash,Food,2026-09,False
+2026-09-11,Flipkart,1434.82,Card,Shopping,2026-09,False
+2026-09-11,Blinkit,608.63,UPI,Groceries,2026-09,False
+2026-09-11,BigBasket,1173.82,Card,Groceries,2026-09,False
+2026-09-11,Jio Recharge,1606.68,UPI,Bills,2026-09,False
+2026-09-11,Myntra,1934.01,UPI,Shopping,2026-09,False
+2026-09-11,Airtel Recharge,1804.77,UPI,Bills,2026-09,False
+2026-09-12,BookMyShow,552.69,UPI,Entertainment,2026-09,False
+2026-09-12,Myntra,923.84,Cash,Shopping,2026-09,False
+2026-09-12,Jio Recharge,1800.95,Cash,Bills,2026-09,False
+2026-09-12,Spotify,519.99,UPI,Entertainment,2026-09,False
+2026-09-13,Domino's,2091.48,UPI,Food,2026-09,False
+2026-09-13,Rapido,1928.38,UPI,Travel,2026-09,False
+2026-09-13,Myntra,694.53,UPI,Shopping,2026-09,False
+2026-09-13,Spotify,991.64,Cash,Entertainment,2026-09,False
+2026-09-13,Uber,2120.0,UPI,Travel,2026-09,False
+2026-09-14,BigBasket,713.41,UPI,Groceries,2026-09,False
+2026-09-15,Flipkart,887.38,UPI,Shopping,2026-09,False
+2026-09-15,Uber,1272.91,Card,Travel,2026-09,False
+2026-09-15,Jio Recharge,1957.76,UPI,Bills,2026-09,False
+2026-09-15,Local Kirana,2408.68,UPI,Groceries,2026-09,False
+2026-09-15,Ola,89.15,UPI,Travel,2026-09,False
+2026-09-15,Ola,174.14,Card,Travel,2026-09,False
+2026-09-16,Amazon,1304.95,UPI,Shopping,2026-09,False
+2026-09-16,Netflix,924.2,UPI,Entertainment,2026-09,False
+2026-09-17,Uber,1344.92,UPI,Travel,2026-09,False
+2026-09-17,Myntra,588.23,UPI,Shopping,2026-09,False
+2026-09-17,Domino's,2464.6,UPI,Food,2026-09,False
+2026-09-17,Local Tea Shop,1615.92,Cash,Food,2026-09,False
+2026-09-17,Airtel Recharge,1445.08,UPI,Bills,2026-09,False
+2026-09-17,Spotify,867.31,UPI,Entertainment,2026-09,False
+2026-09-18,Uber,1658.87,UPI,Travel,2026-09,False
+2026-09-18,Rapido,2067.48,Cash,Travel,2026-09,False
+2026-09-18,Uber,1480.3,UPI,Travel,2026-09,False
+2026-09-19,IRCTC,13933.64,UPI,Travel,2026-09,True
+2026-09-19,Zomato,328.54,Card,Food,2026-09,False
+2026-09-19,Local Tea Shop,342.41,UPI,Food,2026-09,False
+2026-09-19,Myntra,1311.87,UPI,Shopping,2026-09,False
+2026-09-19,Blinkit,2374.61,UPI,Groceries,2026-09,False
+2026-09-19,BookMyShow,1232.44,UPI,Entertainment,2026-09,False
+2026-09-19,Blinkit,327.54,UPI,Groceries,2026-09,False
+2026-09-19,Spotify,1976.6,Cash,Entertainment,2026-09,False
+2026-09-20,BookMyShow,1371.64,UPI,Entertainment,2026-09,False
+2026-09-20,Netflix,1425.34,UPI,Entertainment,2026-09,False
+2026-09-20,Flipkart,1064.0,UPI,Shopping,2026-09,False
+2026-09-20,TNEB Electricity,2017.46,UPI,Bills,2026-09,False
+2026-09-20,Zomato,1713.61,UPI,Food,2026-09,False
+2026-09-21,Airtel Recharge,1694.83,UPI,Bills,2026-09,False
+2026-09-21,Local Tea Shop,2091.89,Cash,Food,2026-09,False
+2026-09-21,Zomato,2259.01,UPI,Food,2026-09,False
+2026-09-21,Amazon,820.96,UPI,Shopping,2026-09,False
+2026-09-21,Myntra,1081.18,UPI,Shopping,2026-09,False
+2026-09-22,Local Kirana,1453.17,Card,Groceries,2026-09,False
+2026-09-22,Swiggy,1964.22,UPI,Food,2026-09,False
+2026-09-23,Uber,1120.43,Card,Travel,2026-09,False
+2026-09-23,Swiggy,1113.9,Cash,Food,2026-09,False
+2026-09-23,TNEB Electricity,1529.61,UPI,Bills,2026-09,False
+2026-09-23,BigBasket,1918.1,UPI,Groceries,2026-09,False
+2026-09-24,Netflix,1847.01,UPI,Entertainment,2026-09,False
+2026-09-24,BigBasket,483.44,Card,Groceries,2026-09,False
+2026-09-24,Amazon,585.8,UPI,Shopping,2026-09,False
+2026-09-24,Myntra,1676.14,Cash,Shopping,2026-09,False
+2026-09-24,Swiggy,111.85,UPI,Food,2026-09,False
+2026-09-24,Ola,261.1,Card,Travel,2026-09,False
+2026-09-24,BigBasket,1624.07,UPI,Groceries,2026-09,False
+2026-09-24,Myntra,2012.36,UPI,Shopping,2026-09,False
+2026-09-25,BookMyShow,2318.91,UPI,Entertainment,2026-09,False
+2026-09-25,Domino's,1277.6,UPI,Food,2026-09,False
+2026-09-25,Airtel Recharge,2431.55,UPI,Bills,2026-09,False
+2026-09-26,Myntra,837.34,UPI,Shopping,2026-09,False
+2026-09-26,Spotify,629.66,UPI,Entertainment,2026-09,False
+2026-09-26,Jio Recharge,1341.48,UPI,Bills,2026-09,False
+2026-09-26,BookMyShow,517.93,UPI,Entertainment,2026-09,False
+2026-09-26,Airtel Recharge,1998.49,UPI,Bills,2026-09,False
+2026-09-26,Rapido,42.48,UPI,Travel,2026-09,False
+2026-09-26,Airtel Recharge,260.25,UPI,Bills,2026-09,False
+2026-09-26,Uber,485.34,Cash,Travel,2026-09,False
+2026-09-26,Zomato,641.76,UPI,Food,2026-09,False
+2026-09-27,Blinkit,1129.4,Card,Groceries,2026-09,False
+2026-09-27,Ola,791.23,UPI,Travel,2026-09,False
+2026-09-27,BookMyShow,1715.98,UPI,Entertainment,2026-09,False
+2026-09-27,IRCTC,1675.09,UPI,Travel,2026-09,False
+2026-09-27,Local Tea Shop,2315.78,Cash,Food,2026-09,False
+2026-09-27,BookMyShow,117.4,UPI,Entertainment,2026-09,False
+2026-09-27,Swiggy,253.28,UPI,Food,2026-09,False
+2026-09-27,Domino's,212.33,UPI,Food,2026-09,False
+2026-09-27,Jio Recharge,1822.64,UPI,Bills,2026-09,False
+2026-09-28,Blinkit,2415.77,Cash,Groceries,2026-09,False
+2026-09-28,Zomato,2154.59,UPI,Food,2026-09,False
+2026-09-28,Netflix,2285.55,Card,Entertainment,2026-09,False
+2026-09-28,Swiggy,1542.02,UPI,Food,2026-09,False
+2026-09-28,Ola,1914.87,UPI,Travel,2026-09,False
+2026-09-28,Airtel Recharge,2323.75,Card,Bills,2026-09,False
+2026-09-28,Ola,1900.14,UPI,Travel,2026-09,False
+2026-09-29,Local Kirana,632.04,UPI,Groceries,2026-09,False
+2026-09-29,Swiggy,1717.48,Card,Food,2026-09,False
+2026-09-29,Flipkart,189.86,Card,Shopping,2026-09,False
+2026-09-29,Jio Recharge,1814.62,Card,Bills,2026-09,False
+2026-09-29,Zomato,1935.72,UPI,Food,2026-09,False
+2026-09-29,Uber,628.86,Cash,Travel,2026-09,False
+2026-09-29,TNEB Electricity,1213.07,Card,Bills,2026-09,False
+2026-09-29,Rapido,1389.02,Cash,Travel,2026-09,False
+2026-09-29,Local Kirana,1267.18,UPI,Groceries,2026-09,False
+2026-09-30,Zomato,1348.3,Cash,Food,2026-09,False
+2026-09-30,Amazon,1239.64,Card,Shopping,2026-09,False
+2026-09-30,Local Tea Shop,773.58,UPI,Food,2026-09,False
+2026-09-30,Domino's,1001.33,Cash,Food,2026-09,False
+2026-09-30,Myntra,2428.0,UPI,Shopping,2026-09,False
+2026-09-30,Airtel Recharge,279.05,Card,Bills,2026-09,False
+2026-09-30,Flipkart,2396.78,UPI,Shopping,2026-09,False
+2026-10-01,Local Kirana,935.15,UPI,Groceries,2026-10,False
+2026-10-01,BookMyShow,205.22,UPI,Entertainment,2026-10,False
+2026-10-01,Zomato,1014.36,UPI,Food,2026-10,False
+2026-10-02,Netflix,2218.83,Cash,Entertainment,2026-10,False
+2026-10-02,BookMyShow,1124.72,UPI,Entertainment,2026-10,False
+2026-10-02,BigBasket,169.32,UPI,Groceries,2026-10,False
+2026-10-02,Ola,41.74,Cash,Travel,2026-10,False
+2026-10-02,Amazon,138.56,Cash,Shopping,2026-10,False
+2026-10-03,IRCTC,14279.03,UPI,Travel,2026-10,True
+2026-10-03,Rapido,1058.21,UPI,Travel,2026-10,False
+2026-10-03,Jio Recharge,1286.5,Card,Bills,2026-10,False
+2026-10-03,Blinkit,1900.6,UPI,Groceries,2026-10,False
+2026-10-03,IRCTC,99.44,Cash,Travel,2026-10,False
+2026-10-03,Amazon,1261.3,Cash,Shopping,2026-10,False
+2026-10-03,TNEB Electricity,1126.92,UPI,Bills,2026-10,False
+2026-10-04,Netflix,1601.26,Card,Entertainment,2026-10,False
+2026-10-04,Netflix,700.86,UPI,Entertainment,2026-10,False
+2026-10-04,Spotify,540.19,UPI,Entertainment,2026-10,False
+2026-10-04,BigBasket,2365.19,Cash,Groceries,2026-10,False
+2026-10-04,Blinkit,513.53,Cash,Groceries,2026-10,False
+2026-10-04,Netflix,1795.86,UPI,Entertainment,2026-10,False
+2026-10-04,BigBasket,450.27,UPI,Groceries,2026-10,False
+2026-10-05,Spotify,1996.3,Cash,Entertainment,2026-10,False
+2026-10-05,Rapido,1985.23,UPI,Travel,2026-10,False
+2026-10-05,Ola,1772.87,UPI,Travel,2026-10,False
+2026-10-05,BookMyShow,2290.81,Card,Entertainment,2026-10,False
+2026-10-05,Netflix,1531.26,Cash,Entertainment,2026-10,False
+2026-10-06,Myntra,469.74,Cash,Shopping,2026-10,False
+2026-10-06,TNEB Electricity,1213.89,Card,Bills,2026-10,False
+2026-10-07,Uber,2098.01,Card,Travel,2026-10,False
+2026-10-07,Uber,2143.07,UPI,Travel,2026-10,False
+2026-10-07,Myntra,651.11,UPI,Shopping,2026-10,False
+2026-10-07,Jio Recharge,1471.46,UPI,Bills,2026-10,False
+2026-10-07,Airtel Recharge,1734.01,UPI,Bills,2026-10,False
+2026-10-08,Myntra,2381.9,UPI,Shopping,2026-10,False
+2026-10-08,TNEB Electricity,1649.02,UPI,Bills,2026-10,False
+2026-10-08,Domino's,1275.08,Cash,Food,2026-10,False
+2026-10-08,Uber,531.73,UPI,Travel,2026-10,False
+2026-10-08,Blinkit,2435.28,Card,Groceries,2026-10,False
+2026-10-08,TNEB Electricity,1584.56,Card,Bills,2026-10,False
+2026-10-08,Jio Recharge,1006.03,Card,Bills,2026-10,False
+2026-10-08,TNEB Electricity,1914.32,Card,Bills,2026-10,False
+2026-10-08,Swiggy,1994.92,UPI,Food,2026-10,False
+2026-10-09,Ola,1145.39,UPI,Travel,2026-10,False
+2026-10-09,Ola,2120.64,UPI,Travel,2026-10,False
+2026-10-09,Uber,1594.29,Cash,Travel,2026-10,False
+2026-10-09,Uber,992.89,UPI,Travel,2026-10,False
+2026-10-09,BookMyShow,1389.2,UPI,Entertainment,2026-10,False
+2026-10-09,Airtel Recharge,1282.86,Cash,Bills,2026-10,False
+2026-10-09,Domino's,2188.49,UPI,Food,2026-10,False
+2026-10-09,Airtel Recharge,902.0,UPI,Bills,2026-10,False
+2026-10-09,Blinkit,825.57,UPI,Groceries,2026-10,False
+2026-10-09,Myntra,515.65,UPI,Shopping,2026-10,False
+2026-10-10,BookMyShow,1777.94,UPI,Entertainment,2026-10,False
+2026-10-10,Local Tea Shop,1545.28,Card,Food,2026-10,False
+2026-10-10,Amazon,1017.26,UPI,Shopping,2026-10,False
+2026-10-10,Myntra,1677.69,UPI,Shopping,2026-10,False
+2026-10-10,Swiggy,2386.69,UPI,Food,2026-10,False
+2026-10-11,Local Kirana,455.42,UPI,Groceries,2026-10,False
+2026-10-11,Blinkit,1633.36,UPI,Groceries,2026-10,False
+2026-10-11,TNEB Electricity,178.49,Cash,Bills,2026-10,False
+2026-10-11,Local Kirana,644.51,UPI,Groceries,2026-10,False
+2026-10-11,Blinkit,501.07,Card,Groceries,2026-10,False
+2026-10-11,Swiggy,1721.63,UPI,Food,2026-10,False
+2026-10-11,Swiggy,173.41,UPI,Food,2026-10,False
+2026-10-11,Myntra,721.74,Card,Shopping,2026-10,False
+2026-10-12,Spotify,1257.83,UPI,Entertainment,2026-10,False
+2026-10-12,BookMyShow,1596.19,Cash,Entertainment,2026-10,False
+2026-10-12,BigBasket,1886.74,UPI,Groceries,2026-10,False
+2026-10-12,Local Kirana,211.98,Card,Groceries,2026-10,False
+2026-10-12,IRCTC,1116.11,Card,Travel,2026-10,False
+2026-10-12,BigBasket,498.75,UPI,Groceries,2026-10,False
+2026-10-12,Ola,1600.7,UPI,Travel,2026-10,False
+2026-10-12,Airtel Recharge,2370.57,UPI,Bills,2026-10,False
+2026-10-12,Netflix,1471.07,UPI,Entertainment,2026-10,False
+2026-10-12,TNEB Electricity,1340.37,Cash,Bills,2026-10,False
+2026-10-12,Local Kirana,178.93,UPI,Groceries,2026-10,False
+2026-10-12,BookMyShow,1972.23,Card,Entertainment,2026-10,False
+2026-10-12,Domino's,1774.21,UPI,Food,2026-10,False
+2026-10-13,Local Kirana,1858.29,Cash,Groceries,2026-10,False
+2026-10-13,Local Tea Shop,2376.63,UPI,Food,2026-10,False
+2026-10-13,Rapido,1450.5,UPI,Travel,2026-10,False
+2026-10-13,Jio Recharge,24.51,UPI,Bills,2026-10,False
+2026-10-13,Amazon,2477.4,Card,Shopping,2026-10,False
+2026-10-13,Myntra,2442.55,Card,Shopping,2026-10,False
+2026-10-13,Netflix,259.43,UPI,Entertainment,2026-10,False
+2026-10-13,Flipkart,1805.17,Cash,Shopping,2026-10,False
+2026-10-13,Local Tea Shop,2454.62,Card,Food,2026-10,False
+2026-10-14,Local Kirana,1883.85,Card,Groceries,2026-10,False
+2026-10-14,Spotify,2023.15,UPI,Entertainment,2026-10,False
+2026-10-14,BigBasket,1433.39,Cash,Groceries,2026-10,False
+2026-10-14,Blinkit,1906.98,Card,Groceries,2026-10,False
+2026-10-15,Uber,1749.5,UPI,Travel,2026-10,False
+2026-10-15,Spotify,2008.73,Cash,Entertainment,2026-10,False
+2026-10-15,Domino's,1490.08,Card,Food,2026-10,False
+2026-10-15,Flipkart,859.99,UPI,Shopping,2026-10,False
+2026-10-15,Spotify,1772.44,UPI,Entertainment,2026-10,False
+2026-10-15,Amazon,102.99,Cash,Shopping,2026-10,False
+2026-10-15,Uber,96.5,UPI,Travel,2026-10,False
+2026-10-16,Myntra,2207.24,Card,Shopping,2026-10,False
+2026-10-16,Ola,1680.25,Card,Travel,2026-10,False
+2026-10-16,Zomato,1136.17,Cash,Food,2026-10,False
+2026-10-16,Airtel Recharge,2325.41,UPI,Bills,2026-10,False
+2026-10-17,Flipkart,352.77,Cash,Shopping,2026-10,False
+2026-10-17,Amazon,850.82,UPI,Shopping,2026-10,False
+2026-10-17,Flipkart,1188.67,UPI,Shopping,2026-10,False
+2026-10-18,Myntra,1070.66,UPI,Shopping,2026-10,False
+2026-10-18,Local Tea Shop,146.46,UPI,Food,2026-10,False
+2026-10-18,Netflix,1021.61,Cash,Entertainment,2026-10,False
+2026-10-18,Myntra,10200.79,UPI,Shopping,2026-10,True
+2026-10-18,Ola,2087.47,UPI,Travel,2026-10,False
+2026-10-18,Amazon,915.75,UPI,Shopping,2026-10,False
+2026-10-18,TNEB Electricity,643.64,Cash,Bills,2026-10,False
+2026-10-18,Uber,749.53,UPI,Travel,2026-10,False
+2026-10-18,Blinkit,2050.67,UPI,Groceries,2026-10,False
+2026-10-18,Blinkit,1574.27,UPI,Groceries,2026-10,False
+2026-10-18,Flipkart,2294.83,UPI,Shopping,2026-10,False
+2026-10-19,Blinkit,2288.59,UPI,Groceries,2026-10,False
+2026-10-19,Netflix,204.47,UPI,Entertainment,2026-10,False
+2026-10-20,TNEB Electricity,1623.66,UPI,Bills,2026-10,False
+2026-10-20,Amazon,657.65,UPI,Shopping,2026-10,False
+2026-10-20,Netflix,1408.3,Card,Entertainment,2026-10,False
+2026-10-21,Spotify,2362.36,UPI,Entertainment,2026-10,False
+2026-10-21,Amazon,2096.69,Card,Shopping,2026-10,False
+2026-10-21,Myntra,1121.35,UPI,Shopping,2026-10,False
+2026-10-21,Myntra,2416.26,Card,Shopping,2026-10,False
+2026-10-21,Spotify,757.74,Cash,Entertainment,2026-10,False
+2026-10-21,Blinkit,1505.69,Card,Groceries,2026-10,False
+2026-10-21,Spotify,1875.31,UPI,Entertainment,2026-10,False
+2026-10-22,BookMyShow,818.74,Cash,Entertainment,2026-10,False
+2026-10-22,Amazon,2206.08,Card,Shopping,2026-10,False
+2026-10-23,Rapido,343.32,UPI,Travel,2026-10,False
+2026-10-23,Flipkart,1195.45,Card,Shopping,2026-10,False
+2026-10-23,Uber,1904.14,UPI,Travel,2026-10,False
+2026-10-23,Blinkit,1539.85,UPI,Groceries,2026-10,False
+2026-10-24,Local Tea Shop,1383.85,Card,Food,2026-10,False
+2026-10-24,Swiggy,796.62,UPI,Food,2026-10,False
+2026-10-24,Ola,694.96,Cash,Travel,2026-10,False
+2026-10-24,BigBasket,2444.6,UPI,Groceries,2026-10,False
+2026-10-24,Amazon,1764.08,UPI,Shopping,2026-10,False
+2026-10-24,Jio Recharge,1337.25,UPI,Bills,2026-10,False
+2026-10-24,BookMyShow,1185.01,UPI,Entertainment,2026-10,False
+2026-10-25,Amazon,2360.75,UPI,Shopping,2026-10,False
+2026-10-25,Rapido,412.87,Cash,Travel,2026-10,False
+2026-10-25,IRCTC,1916.69,UPI,Travel,2026-10,False
+2026-10-25,Swiggy,520.74,UPI,Food,2026-10,False
+2026-10-26,Domino's,660.94,Cash,Food,2026-10,False
+2026-10-26,Netflix,33.74,UPI,Entertainment,2026-10,False
+2026-10-26,Myntra,347.63,Card,Shopping,2026-10,False
+2026-10-26,Myntra,2194.17,UPI,Shopping,2026-10,False
+2026-10-26,IRCTC,2200.68,UPI,Travel,2026-10,False
+2026-10-26,Ola,1938.96,Cash,Travel,2026-10,False
+2026-10-27,Flipkart,1851.87,UPI,Shopping,2026-10,False
+2026-10-27,Myntra,2205.52,Cash,Shopping,2026-10,False
+2026-10-27,Netflix,2129.01,UPI,Entertainment,2026-10,False
+2026-10-27,Ola,1915.58,UPI,Travel,2026-10,False
+2026-10-27,Local Kirana,674.9,UPI,Groceries,2026-10,False
+2026-10-27,Amazon,829.26,UPI,Shopping,2026-10,False
+2026-10-28,Domino's,264.99,Card,Food,2026-10,False
+2026-10-28,Domino's,1484.04,UPI,Food,2026-10,False
+2026-10-28,Zomato,1729.19,Card,Food,2026-10,False
+2026-10-28,Local Tea Shop,117.45,Cash,Food,2026-10,False
+2026-10-28,Airtel Recharge,467.47,UPI,Bills,2026-10,False
+2026-10-28,Spotify,1524.52,UPI,Entertainment,2026-10,False
+2026-10-28,Jio Recharge,543.81,UPI,Bills,2026-10,False
